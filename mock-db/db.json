@@ -1,0 +1,51 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Quan ao Guccrri"
+        },
+        {
+            "id": 2,
+            "name": "Giay nike"
+        },
+        {
+            "id": 3,
+            "name": "Dong ho Rolex"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "images": [
+                {
+                    "url":"https://res.cloudinary.com/djeghcumw/image/upload/v1547297558/tuts/snowboard.png"
+                }
+            ],
+            "name" : "Nguyen Duc Ky",
+            "price": "1000000000000",
+            "category": 1
+        },
+        {
+            "id": 2,
+            "images": [
+                {
+                    "url":"https://res.cloudinary.com/djeghcumw/image/upload/v1547297558/tuts/snowboard.png"
+                }
+            ],
+            "name" : "Ky Handsome",
+            "price": "2000000000000",
+            "category": 1
+        },
+        {
+            "id": 3,
+            "images": [
+                {
+                    "url":"https://res.cloudinary.com/djeghcumw/image/upload/v1547297558/tuts/snowboard.png"
+                }
+            ],
+            "name" : "Ky DEV",
+            "price": "3000000000000",
+            "category": 1
+        }
+    ]   
+}
